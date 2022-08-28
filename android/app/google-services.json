@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "700491674679",
+    "project_id": "stall-f0580",
+    "storage_bucket": "stall-f0580.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:700491674679:android:3335bc5971625d1e843bb2",
+        "android_client_info": {
+          "package_name": "com.afsar.flutter_App"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "700491674679-lddj50ircqet3tkshcko094s8a0d233p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.afsar.flutter_App",
+            "certificate_hash": "aa38642e19f063ccb707a6316a00e1b04286b9a9"
+          }
+        },
+        {
+          "client_id": "700491674679-r1r91q9nhu1simluobi0c48vai0iv472.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACsuybPmrPWB8ERtPJZv81wpEy7wWYsiA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "700491674679-r1r91q9nhu1simluobi0c48vai0iv472.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
